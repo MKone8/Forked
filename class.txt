@@ -6,3 +6,5 @@ franek zrobil pusha pierwszy ay ay ay
 Tu coś nie gra
 
 Tu coś poprawie
+
+Ja coś tu dopisuje z repo lokalnego
