@@ -7,4 +7,6 @@ Tu coś nie gra
 
 Tu coś poprawie
 
-Ja coś tu dopisuje z repo lokalnego
+
+Ja coś tu dopisuje z repo lokalnego ale zostawiam część z zdalnego
+
