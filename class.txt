@@ -5,4 +5,8 @@ franek zrobil pusha pierwszy ay ay ay
 
 Tu coś nie gra
 
-Tu coś poprawie tutaj coś poprawie na feature
+tutaj coś poprawie na feature
+
+
+Ja coś tu dopisuje z repo lokalnego ale zostawiam część z zdalnego
+
